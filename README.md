@@ -1,7 +1,7 @@
 # College Dekho
 
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/2sMdJ3F/mnfvxwgqnubvkfmgb3octd-Free-Sample-By-Wix-SREZ.png" alt="College Dekho Logo" width="250px" border="0"></a>
+  <a href="https://ibb.co/CszfYPB"><img src="[https://i.ibb.co/2sMdJ3F/mnfvxwgqnubvkfmgb3octd-Free-Sample-By-Wix-SREZ.png](https://ibb.co/CszfYPB)" alt="EDUINFO Logo" width="250px" border="0"></a>
 </p>
 
 
